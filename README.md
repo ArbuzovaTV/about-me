@@ -19,4 +19,4 @@
   
 
 **Контакты:
-[VK](https://vk.com/arbuzovatv) | [github](https://github.com/ArbuzovaTV) | [email](tatiana-arbuzova93@yandex.ru)**
+[VK](https://vk.com/arbuzovatv) | [github](https://github.com/ArbuzovaTV) | <a href="mailto:tatiana-arbuzova93@yandex.ru">email</a>**
